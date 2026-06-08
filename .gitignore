@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Model file (too large for GitHub — host on Google Drive / HuggingFace)
+*.h5
+
+# Sample test images
+sample_*.jpeg
+sample_*.jpg
+sample_*.png
+
+# Python virtual environments
+venv/
+.env/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# OS generated
+.DS_Store
+Thumbs.db
