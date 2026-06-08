@@ -2,7 +2,7 @@
 
 A deep learning web application that classifies chest X-ray images as **Normal** or **Pneumonia** using a fine-tuned **VGG-16** convolutional neural network, with **Grad-CAM** heatmaps for visual explainability.
 
-> Built as a portfolio project for ML Summer School application.
+
 
 ---
 
